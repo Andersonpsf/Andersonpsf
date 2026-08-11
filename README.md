@@ -15,7 +15,7 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
     </a>
     <a href="andersonsfilho2006@gmail.com">
-        ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)(mailto:andersonsfilho2006@gmail.com)
+        [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andersonsfilho2006@gmail.com)
     </a>
     <a href="https://www.instagram.com/andersonpfilho/">
         ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
