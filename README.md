@@ -125,3 +125,5 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 
 
 </p>
+ 
+ [![LinkedIn](https://shields.io)](https://linkedin.com)
