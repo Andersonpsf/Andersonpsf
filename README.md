@@ -3,11 +3,11 @@
 **`Desenvolvedor Backend`**
 
 ### Sobre Mim
-Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na mesma instituição, onde busco sempre me aprimorar na área de tecnologia.
+Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou no 4º período de Ciência da Computação na mesma instituição. Sou apaixonado na área de teconologia, o qual tenho forte interesse em Desenvolvimento Backend, área na qual desenvolvo projetos utilizando Django e Java, e em Inteligência Artificial, campo onde atuo como pesquisador em um projeto acadêmico
 
 - Desenvolvedor backend em formação (Java & Python (Django))
 - Pesquisador em IA & Dados
-- Voluntário no Programa de Educação Tutotial (PET) de Computação
+- Voluntário no Programa de Educação Tutorial (PET) de Computação
 
 <p align="left">
     <a href="https://www.linkedin.com/in/anderson-de-paula-siqueira-filho-267565271/">
