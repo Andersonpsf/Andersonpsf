@@ -10,7 +10,7 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 - Voluntário no Programa de Educação Tutorial (PET) de Computação
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/andersonpsf">
+    <a href="[https://www.linkedin.com/in/andersonpsf](https://www.linkedin.com/in/andersonpsf/)">
         
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
     </a>
