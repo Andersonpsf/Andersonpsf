@@ -113,6 +113,8 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
