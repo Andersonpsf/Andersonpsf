@@ -3,7 +3,9 @@
 **`Desenvolvedor Backend`**
 
 Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na mesma instituição.
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 <p align="left">
     <a href="https://github.com/Andersonpsf?tab=repositories&sort=stargazers">
         <img 
