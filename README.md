@@ -2,25 +2,26 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na mesma instituição.
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+### Sobre Mim
+Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na mesma instituição, onde busco sempre me aprimorar na área de tecnologia.
+
+- Desenvolvedor backend em formação (Java & Python (Django))
+- Pesquisador em IA & Dados
+- Voluntário no Programa de Educação Tutotial (PET) de Computação
+
 <p align="left">
-    <a href="https://github.com/Andersonpsf?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Andersonpsf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="www.linkedin.com/in/anderson-de-paula-siqueira-filho-267565271">
+    
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
     </a>
-    <a href="https://github.com/Andersonpsf?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Andersonpsf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="andersonsfilho2006@gmail.com">
+        ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
     </a>
+    <a href="https://www.instagram.com/andersonpfilho/">
+        ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+    </a>
+    
+    
 </p>
 
 ---
@@ -122,10 +123,8 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 ### 📊 Estatísticas
 
 <p>
-    
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)
 
 
 </p>
- 
- [![LinkedIn](https://shields.io)](https://linkedin.com)
+
