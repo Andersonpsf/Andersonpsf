@@ -125,14 +125,8 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Andersonpsf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonpsf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=octocat&theme=radical
++ https://github-stats-extended.vercel.app/api?username=octocat&theme=radical" 
   />
 
 </p>
