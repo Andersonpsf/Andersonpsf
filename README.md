@@ -120,7 +120,7 @@ Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas 
 ### 📊 Estatísticas
 
 <p>
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)
+  [![Andersonpsf's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)](https://github-stats-extended.vercel.app/api/top-langs?username=Andersonpsf&langs_count=4&theme=buefy)
 
   [![Andersonpsf's GitHub stats](https://github-stats-extended.vercel.app/api?username=Andersonpsf)](https://github.com/stats-organization/github-stats-extended)
 
