@@ -3,24 +3,17 @@
 **`Desenvolvedor Backend`**
 
 ### Sobre Mim
-Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou no 4º período de Ciência da Computação na mesma instituição. Sou apaixonado na área de teconologia, o qual tenho forte interesse em Desenvolvimento Backend, área na qual desenvolvo projetos utilizando Django e Java, e em Inteligência Artificial, campo onde atuo como pesquisador em um projeto acadêmico
+Me chamo Anderson de Paula Siqueira Filho, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFTM, com o curso técnico em informática. Atualmente, estou no 4º período de Ciência da Computação na mesma instituição. Sou apaixonado na área de tecnologia, o qual tenho forte interesse em Desenvolvimento Backend, área onde desenvolvo projetos utilizando Django e Java, e em Inteligência Artificial, campo no qual atuo como pesquisador em um projeto acadêmico
 
 - Desenvolvedor backend em formação (Java & Python (Django))
 - Pesquisador em IA & Dados
 - Voluntário no Programa de Educação Tutorial (PET) de Computação
 
 <p align="left">
-    <a href="[https://www.linkedin.com/in/andersonpsf](https://www.linkedin.com/in/andersonpsf/)">
-        
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-    </a>
-    <a href="andersonsfilho2006@gmail.com">
-        [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andersonsfilho2006@gmail.com)
-    </a>
-    <a href="https://www.instagram.com/andersonpfilho/">
-        ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-    </a>
-    
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonpsf)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andersonsfilho2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andersonpfilho/)
     
 </p>
 
